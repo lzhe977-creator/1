@@ -64,3 +64,9 @@ footer {
 .btn:hover {
   background: #c71c30;
 }
+.brand {
+  font-family: 'Shippori Mincho', serif !important;
+  font-size: 28px;
+  margin: 0;
+  white-space: nowrap; /* ← 改行を禁止する */
+}

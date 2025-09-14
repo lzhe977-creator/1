@@ -7,7 +7,7 @@ body {
 }
 
 header {
-  background: #f8c6d0;
+  background:#e6cde3;
   color: #333;
   padding: 20px;
   text-align: center;
@@ -34,7 +34,7 @@ nav a {
 }
 
 nav a:hover {
-  color: #e63946;
+  color:#5383c3;
 }
 
 main {
@@ -55,7 +55,7 @@ footer {
 .btn {
   display: inline-block;
   padding: 10px 20px;
-  background: #e63946;
+  background:#5383c3;
   color: white;
   text-decoration: none;
   border-radius: 5px;
